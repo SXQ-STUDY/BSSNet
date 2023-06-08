@@ -18,7 +18,7 @@
 - We propose a Unified Multi-Feature Fusion module (UMF) that can efficiently fuse multiple features at a low computational cost and can be easily integrated into other models.
 
 ## Updates
-   - xxx
+   - 2023.06.08 release Readme
 
 
 ## Models
