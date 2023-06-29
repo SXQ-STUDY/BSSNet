@@ -48,7 +48,8 @@ This implementation is based on [MMSegmentation](https://github.com/open-mmlab/m
 ### 1. Prepare the dataset
 
 * Download the [Cityscapes](https://www.cityscapes-dataset.com/), [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) and [NightCity](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html) datasets.
-* Add the dataset path to BSSNet_configs/_base_/datasets/xxdatasets.py
+* Add the dataset path to `BSSNet_configs/_base_/datasets/datasets.py`
+
 
 ### 2. Training
 
