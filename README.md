@@ -1,7 +1,7 @@
 # **BSSNet: A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder**
 **This is the official repository for our recent work: BSSNet**
 
-**The code will be released**
+
 ## Overview
 <p align="center">
   <img src="figs\overall.png" alt="overview-of-our-method" width="700"/></br>
@@ -18,8 +18,8 @@
 - We propose a Unified Multi-Feature Fusion module (UMF) that can efficiently fuse multiple features at a low computational cost and can be easily integrated into other models.
 
 ## Updates
-   - 2023.06.08 release Readme
-
+   - 2023.06.08 Release Readme
+   - 2023.06.29 Release the code
 
 ## Models
 
