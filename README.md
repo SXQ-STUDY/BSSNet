@@ -1,6 +1,7 @@
 # **BSSNet: A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder**
 **This is the official repository for our recent work: BSSNet**
 
+**BSSNet core code will be released soon**
 
 ## Overview
 <p align="center">
