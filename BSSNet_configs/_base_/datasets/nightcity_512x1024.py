@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = 'NightCityDataset'
-data_root = r'D:\effe\datasets\nightcity'
+data_root = r'.\nightcity'
 # resize 时按照宽高尺寸指定,之后就会得到高宽的数据，之后再指定尺寸都按照高宽
 crop_size = (512, 1024)
 train_pipeline = [

@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = 'CamVidDataset'
-data_root = r'D:\effe\datasets\CamVid\CamVid'
+data_root = r'.\CamVid'
 crop_size = (720, 960)
 train_pipeline = [
     dict(type='LoadImageFromFile'),

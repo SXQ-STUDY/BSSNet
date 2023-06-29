@@ -1,7 +1,6 @@
 # dataset settings
 dataset_type = 'CityscapesDataset'
-data_root = r'D:\effe\datasets\cityscapes'
-# data_root = '/data3/sxq/datasets/cityscapes'
+data_root = r'.\cityscapes'
 crop_size = (512, 1024)
 train_pipeline = [
     dict(type='LoadImageFromFile'),
