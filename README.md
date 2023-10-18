@@ -1,6 +1,4 @@
-
-This is the project page for paper:
->**BSSNet: A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder**
+**This is the project page for paper:[BSSNet: A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder](https://ieeexplore.ieee.org/document/10286565)**
 
 
 <p align="center">
@@ -64,19 +62,20 @@ python tools/test.py BSSNet_configs\bssnet-cityscapes\bssnet-t-b12-120k-1024x102
 ### Train a custom dataset
 - Adjust your dataset structure to the above supported dataset formats.
 
-<!-- ## Citation
+### Citation
 
 If you think this implementation is useful for your work, please cite our paper:
 ```
-@misc{xu2022pidnet,
-      title={PIDNet: A Real-time Semantic Segmentation Network Inspired from PID Controller}, 
-      author={Jiacong Xu and Zixiang Xiong and Shankar P. Bhattacharyya},
-      year={2022},
-      eprint={2206.02066},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-``` -->
+@ARTICLE{10286565,
+  author={Shi, Xiaoqiang and Yin, Zhenyu and Han, Guangjie and Liu, Wenzhuo and Qin, Li and Bi, Yuanguo and Li, Shurui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={BSSNet:A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3325360}}
+```
 
 ## Acknowledgement
 
