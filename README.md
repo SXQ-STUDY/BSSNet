@@ -69,11 +69,12 @@ If you think this implementation is useful for your work, please cite our paper:
 @ARTICLE{10286565,
   author={Shi, Xiaoqiang and Yin, Zhenyu and Han, Guangjie and Liu, Wenzhuo and Qin, Li and Bi, Yuanguo and Li, Shurui},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={BSSNet:A Real-Time Semantic Segmentation Network for Road Scenes Inspired from AutoEncoder}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  title={BSSNet: A Real-Time Semantic Segmentation Network for Road Scenes Inspired From AutoEncoder}, 
+  year={2024},
+  volume={34},
+  number={5},
+  pages={3424-3438},
+  keywords={Real-time systems;Semantics;Semantic segmentation;Feature extraction;Data mining;Computer architecture;Task analysis;Real-time semantic segmentation;convolution neural networks;AutoEncoder;feature fusion},
   doi={10.1109/TCSVT.2023.3325360}}
 ```
 
